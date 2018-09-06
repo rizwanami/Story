@@ -1,0 +1,2 @@
+This a chapter 3 of story about learning git. Life is not always simple
+
